@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="src/assets/readme.jpeg" alt="text" title="Title" />
+  <img src="src/assets/images/readme1.jpeg" alt="text" title="Title" />
 </div>
 
 <div align="center">
-  <img src="src/assets/readme.jpeg" alt="text" title="Title" />
+  <img src="src/assets/images/readme2.jpeg" alt="text" title="Title" />
 </div>
 
 
@@ -15,7 +15,12 @@
 
 ``` bash
 # install dependencies
-npm install
+yarn global add @vue/cli
+
+# Create a project
+vue create vue-router
+
+cd vue-router
 
 # serve with hot reload at localhost:8080
 npm run dev
