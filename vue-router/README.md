@@ -1,7 +1,13 @@
+<div align="center">
+  <img src="src/assets/readme.jpeg" alt="text" title="Title" />
+</div>
 
-![image](preview/routing-in-vue.png)
+<div align="center">
+  <img src="src/assets/readme.jpeg" alt="text" title="Title" />
+</div>
 
-![image](preview/finale-preview.gif)
+
+
 
 > A Vue.js project
 
